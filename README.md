@@ -1,5 +1,5 @@
 <p align="center">
-<h3>This is a forl from original domotruc/jMQTT as no updates and pull resquest were merged to support Jeedom 4 at least.</h3>
+<h3>This is a fork from original domotruc/jMQTT as no updates and pull resquest were merged to support Jeedom 4 at least.</h3>
 </p>
 
 __________________
